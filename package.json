@@ -1,0 +1,8 @@
+{
+  "name": "rolling-dices-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/edenkiefer/rolling-dices-server",
+  "author": "edenkieferjunior <globalsys.eden@wine.com.br>",
+  "license": "MIT"
+}
